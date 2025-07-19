@@ -18,12 +18,12 @@ As part of the "Logo Design Mockup" task, the objective was to design and showca
 The instructions required exploring 2–3 variations of a logo through the use of Figma’s design tools, with the final output being a shared Figma file
 containing the mockup and design process.
 
-To execute this task, I chose to recreate and mock up existing, recognizable logos (such as Adidas, YouTube, Twitter, Figma , and LinkedIn), experimenting with minor design variations to understand the design principles and construction behind them. This approach helped me study real-world brand identities while practicing the core techniques of logo design.
+To execute this task, I chose to recreate and mock up existing, recognizable logos *(such as Adidas, YouTube, Twitter, Figma , and LinkedIn)*, experimenting with minor design variations to understand the design principles and construction behind them. This approach helped me study real-world brand identities while practicing the core techniques of logo design.
 
 I began by creating a new Figma file under a project titled “Logo Design Mockup” and framed the workspace appropriately using the Frame tool. 
 I used the Auto Layout feature to structure my mockups consistently and neatly across the canvas, ensuring responsiveness and alignment between elements.
 
-For each logo variation, I made use of Tools like :
+*For each logo variation, I made use of Tools like :*
 
  - > Shape tools (Rectangle, Ellipse, Polygon, etc.) to construct foundational forms
 
@@ -51,6 +51,18 @@ This exercise helped reinforce key logo design principles such as simplicity, sc
 
 Overall, this project not only strengthened my design tool proficiency in Figma but also enhanced my visual analysis of brand identities and my ability to execute clean, thoughtful mockups.
 
+# OUTPUT :
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/7cac3426-7d29-425f-acca-f7db71abe642" />
+
+
+<img width="462" height="424" alt="Image" src="https://github.com/user-attachments/assets/44f4f837-2119-40a6-83d1-0931b6c2664b" />
+
+
+<img width="498" height="410" alt="Image" src="https://github.com/user-attachments/assets/8877a346-a955-4c6a-a6e5-f92f73af52e5" />
+
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8f7ad460-5cf7-4180-b0a2-d1d0a32dedb7" />
 
 
 
